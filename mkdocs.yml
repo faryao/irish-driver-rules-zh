@@ -11,6 +11,7 @@ theme:
   language: zh
   features:
     - navigation.sections
+    - navigation.footer
     - navigation.top
     - navigation.tracking
     - toc.follow
