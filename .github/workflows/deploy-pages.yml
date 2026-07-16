@@ -32,6 +32,8 @@ jobs:
 
       - name: Build site
         run: mkdocs build --strict
+        env:
+          GOATCOUNTER_ENDPOINT: ${{ vars.GOATCOUNTER_ENDPOINT }}
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -51,4 +53,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

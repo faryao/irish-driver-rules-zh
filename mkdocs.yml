@@ -7,6 +7,7 @@ use_directory_urls: true
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   features:
     - navigation.sections
@@ -46,6 +47,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra:
+  goatcounter_endpoint: !ENV [GOATCOUNTER_ENDPOINT, ""]
 
 nav:
   - 首页: index.md

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if config.extra.goatcounter_endpoint %}
+    <script
+      data-goatcounter="{{ config.extra.goatcounter_endpoint }}"
+      async
+      src="https://gc.zgo.at/count.js"
+    ></script>
+  {% endif %}
+{% endblock %}
