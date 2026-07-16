@@ -30,15 +30,6 @@ translation_status: complete
 
 步行街禁止一般道路使用者进入；只有标志明确提供自行车道时，骑自行车者和电动滑板车使用者才可进入。
 
-### 原始页面 67–72
-
-![第67页](media/sign-pages/section06-069.jpg)
-![第68页](media/sign-pages/section06-070.jpg)
-![第69页](media/sign-pages/section06-071.jpg)
-![第70页](media/sign-pages/section06-072.jpg)
-![第71页](media/sign-pages/section06-073.jpg)
-![第72页](media/sign-pages/section06-074.jpg)
-
 ## 道路标线
 
 道路标线本身也是交通标志。常见含义包括：停车线、让行线、车道方向箭头、公交或自行车专用区域、黄色方格、禁止停车黄线及分隔车流的白线。
@@ -51,20 +42,6 @@ translation_status: complete
 - 道路人字形斜线区域用于分隔、汇入或分流车流；只有边界为虚线且确认安全时才可进入，实线边界通常不得进入。
 
 2+1 道路在一个方向设两条车道、另一方向设一条车道，方向交替变化，中央可能有护栏。按标志和标线使用超车段，绝不穿越中央护栏。
-
-### 原始页面 73–83
-
-![第73页](media/sign-pages/section06-075.jpg)
-![第74页](media/sign-pages/section06-076.jpg)
-![第75页](media/sign-pages/section06-077.jpg)
-![第76页](media/sign-pages/section06-078.jpg)
-![第77页](media/sign-pages/section06-079.jpg)
-![第78页](media/sign-pages/section06-080.jpg)
-![第79页](media/sign-pages/section06-081.jpg)
-![第80页](media/sign-pages/section06-082.jpg)
-![第81页](media/sign-pages/section06-083.jpg)
-![第82页](media/sign-pages/section06-084.jpg)
-![第83页](media/sign-pages/section06-085.jpg)
 
 ## 警告、施工与信息标志
 
@@ -87,15 +64,6 @@ translation_status: complete
 公交道入口设蓝白标志，信息牌标明运作时段；没有时段通常表示全天运作。只有标志允许的车辆才可使用。公交道可与一般车流同向，设于左侧或右侧，也可逆向。
 
 公交道结束处如有让行标志，巴士必须让行。公交专用街道仅供标志列明的车辆使用。其他车辆不得在生效时段驾驶或停车于公交道，允许转弯或进出物业的有限横过除外。
-
-### 原始页面 84–89
-
-![第84页](media/sign-pages/section06-086.jpg)
-![第85页](media/sign-pages/section06-087.jpg)
-![第86页](media/sign-pages/section06-088.jpg)
-![第87页](media/sign-pages/section06-089.jpg)
-![第88页](media/sign-pages/section06-090.jpg)
-![第89页](media/sign-pages/section06-091.jpg)
 
 ## 电车和轻轨
 
@@ -125,21 +93,6 @@ translation_status: complete
 
 行人、骑自行车者和骑马者同样必须使用指定通道，听从警报和信号；下车或牵行可能更安全。闸门由使用者操作时，通过后必须关闭。
 
-### 原始页面 90–101
-
-![第90页](media/sign-pages/section06-092.jpg)
-![第91页](media/sign-pages/section06-093.jpg)
-![第92页](media/sign-pages/section06-094.jpg)
-![第93页](media/sign-pages/section06-095.jpg)
-![第94页](media/sign-pages/section06-096.jpg)
-![第95页](media/sign-pages/section06-097.jpg)
-![第96页](media/sign-pages/section06-098.jpg)
-![第97页](media/sign-pages/section06-099.jpg)
-![第98页](media/sign-pages/section06-100.jpg)
-![第99页](media/sign-pages/section06-101.jpg)
-![第100页](media/sign-pages/section06-102.jpg)
-![第101页](media/sign-pages/section06-103.jpg)
-
 ## 铁路桥与头顶结构
 
 接近铁路桥时遵守所有限高、重量、宽度和车道标志。车辆连同载荷的实际高度必须低于标示高度。拱桥的标示净高可能只在特定车道位置提供，应沿道路标线通过，不要越线争取空间。
@@ -148,20 +101,8 @@ translation_status: complete
 
 跨越铁路的桥也可能有重量、宽度、交通控制或高侧风限制，大型车辆应特别留意路线适用性。
 
-### 原始页面 102–104
-
-![第102页](media/sign-pages/section06-104.jpg)
-![第103页](media/sign-pages/section06-105.jpg)
-![第104页](media/sign-pages/section06-106.jpg)
-
 ## 道路隧道标志
 
 隧道车道上方的控制标志含义与一般车道控制相同：向下绿色箭头表示开放，红叉表示关闭，斜绿色箭头要求移入指定相邻车道。
 
 管制标志可按车轴数量禁止重型货运或大型非乘用车辆使用右车道。电子标志还可显示可变限速、事故、停车、保持距离和撤离信息，必须遵守。部分隧道以头顶标志和道路人字形标线共同提示最低车距。
-
-### 原始页面 105–107
-
-![第105页](media/sign-pages/section06-107.jpg)
-![第106页](media/sign-pages/section06-108.jpg)
-![第107页](media/sign-pages/section06-109.jpg)
