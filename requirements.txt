@@ -1,0 +1,2 @@
+mkdocs-material>=9.6,<10
+mkdocs-exclude>=1.0,<2
