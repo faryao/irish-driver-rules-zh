@@ -1,6 +1,9 @@
 site_name: 爱尔兰《道路规则》中文版
 site_description: 爱尔兰道路安全管理局《道路规则》的简体中文 Markdown 版本
 site_url: https://faryao.github.io/irish-driver-rules-zh/
+repo_url: https://github.com/faryao/irish-driver-rules-zh
+repo_name: faryao/irish-driver-rules-zh
+edit_uri: edit/main/docs/
 docs_dir: docs
 site_dir: site
 use_directory_urls: true
@@ -10,6 +13,7 @@ theme:
   custom_dir: overrides
   language: zh
   features:
+    - content.action.edit
     - navigation.sections
     - navigation.footer
     - navigation.top
