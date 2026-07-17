@@ -141,6 +141,8 @@ translation_status: complete
 
 ## 环形交叉路口
 
+[Guide](https://www.youtube.com/watch?v=4rsdaSTOkWk)
+
 环形交叉路口的形状、大小和出口数量各不相同，有些还由交通灯控制。无论大小，都必须遵守以下一般规则。
 
 设置环形交叉路口的目的是：
